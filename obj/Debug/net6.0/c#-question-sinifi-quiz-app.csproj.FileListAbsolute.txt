@@ -1,0 +1,15 @@
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-question-sinifi-quiz-app\bin\Debug\net6.0\c#-question-sinifi-quiz-app.exe
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-question-sinifi-quiz-app\bin\Debug\net6.0\c#-question-sinifi-quiz-app.deps.json
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-question-sinifi-quiz-app\bin\Debug\net6.0\c#-question-sinifi-quiz-app.runtimeconfig.json
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-question-sinifi-quiz-app\bin\Debug\net6.0\c#-question-sinifi-quiz-app.dll
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-question-sinifi-quiz-app\bin\Debug\net6.0\c#-question-sinifi-quiz-app.pdb
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-question-sinifi-quiz-app\obj\Debug\net6.0\c#-question-sinifi-quiz-app.csproj.AssemblyReference.cache
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-question-sinifi-quiz-app\obj\Debug\net6.0\c#-question-sinifi-quiz-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-question-sinifi-quiz-app\obj\Debug\net6.0\c#-question-sinifi-quiz-app.AssemblyInfoInputs.cache
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-question-sinifi-quiz-app\obj\Debug\net6.0\c#-question-sinifi-quiz-app.AssemblyInfo.cs
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-question-sinifi-quiz-app\obj\Debug\net6.0\c#-question-sinifi-quiz-app.csproj.CoreCompileInputs.cache
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-question-sinifi-quiz-app\obj\Debug\net6.0\c#-question-sinifi-quiz-app.dll
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-question-sinifi-quiz-app\obj\Debug\net6.0\refint\c#-question-sinifi-quiz-app.dll
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-question-sinifi-quiz-app\obj\Debug\net6.0\c#-question-sinifi-quiz-app.pdb
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-question-sinifi-quiz-app\obj\Debug\net6.0\c#-question-sinifi-quiz-app.genruntimeconfig.cache
+C:\Users\metin\Desktop\Programlama Dilleri\Web-Gelistirme Egitimi\Javascript\c#-question-sinifi-quiz-app\obj\Debug\net6.0\ref\c#-question-sinifi-quiz-app.dll
